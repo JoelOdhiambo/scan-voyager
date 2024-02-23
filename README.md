@@ -35,3 +35,4 @@ cd scan-voyager
 ```bash
 python3 scan-voyager.py <ip_address>
 ```
+Replace `<ip_address>` with the IP address of the target you want to scan.
